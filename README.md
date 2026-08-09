@@ -1,2 +1,2 @@
-# Is the Project SEKAI movie released digitally?
-Simple site for inticating whether if the Project SEKAI movie got ever released digitally. Inspired by the "Is my computer on?" site.
+# Are the rest of the Vocaloids in Sonic Racing CrossWorlds?
+Simple site for indicating whether if the rest of the Vocaloids are in Sonic Racing CrossWorlds. Inspired by the "Is my computer on?" site.
